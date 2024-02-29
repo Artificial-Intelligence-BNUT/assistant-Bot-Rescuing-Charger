@@ -25,7 +25,7 @@ LEFT
 ```
 
 **Explanation:**
-The bot starts at position (2,2) and the charger is located at position (3,1). To rescue the charger, the bot needs to move one step DOWN and one step LEFT.
+The bot starts at position (2,2) and the charger is located at position (1,1). To rescue the charger, the bot needs to move one step DOWN and one step LEFT.
 
 ---
 
